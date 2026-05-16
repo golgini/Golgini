@@ -4,7 +4,7 @@
 
 🛡️ Currently focused on developing AI-powered security solutions, including intelligent phishing email detection systems and automated threat analysis tools.<br/>
 
-💻 Skilled in software development, cybersecurity research, backend systems, automation, and modern DevOps technologies such as Docker and Kubernetes.<br/>
+💻 Skilled in software development, cybersecurity research, backend systems, automation, .<br/>
 
 📊 Enthusiastic about algorithmic trading systems, MT5 automation, and high-performance financial technology solutions.<br/>
 
